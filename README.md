@@ -5,7 +5,7 @@ Activity transation with animation and floating action button animate to alert d
  - minSdkVersion 21
  
 # Preview
-![alt text](https://github.com/Hiteshsaini1993/AndroidTransationAnimations/blob/master/ezgif-4-c079110b36.gif)
+![alt text](https://github.com/Pixelpoint-Technology/AndroidTransationAnimations/blob/master/preview_image.gif)
  
 # ActivityA
 
