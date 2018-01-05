@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         rv_main            = findViewById(R.id.rv_main);
 
         images = new int[]{R.drawable.img_1,R.drawable.img_2,R.drawable.img_3,R.drawable.img_4,R.drawable.img_5,R.drawable.img_6,R.drawable.img_7,R.drawable.img_8,R.drawable.img_9,R.drawable.img_10};
-        names = new String[]{"India","Barbie","Mountain","The Royal Bike","Nature","Birds","Sky","Sea","Happy New Year","Dream House"};
+        names = new String[]{"Text 1","Text 2","Text 3","Text 4","Text 5","Text 6","Text 7","Text 8","Text 9","Text 10"};
 
         for (int i=0; i<images.length;i++){
             DataModel dataModel = new DataModel();

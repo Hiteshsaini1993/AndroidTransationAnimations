@@ -9,7 +9,7 @@
     <ImageView
         android:id="@+id/image"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_height="200dp"
         android:scaleType="centerCrop"
         android:layout_centerHorizontal="true"
         android:transitionName="simple_activity_transition"
@@ -44,7 +44,7 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="72dp"
+        android:layout_marginTop="172dp"
         android:background="@drawable/fab"
         android:visibility="gone"
         android:src="@drawable/filter"
